@@ -1,0 +1,13 @@
+C:\204\consoleapp\aditiconsole\bin\Debug\netcoreapp3.1\aditiconsole.exe
+C:\204\consoleapp\aditiconsole\bin\Debug\netcoreapp3.1\aditiconsole.deps.json
+C:\204\consoleapp\aditiconsole\bin\Debug\netcoreapp3.1\aditiconsole.runtimeconfig.json
+C:\204\consoleapp\aditiconsole\bin\Debug\netcoreapp3.1\aditiconsole.runtimeconfig.dev.json
+C:\204\consoleapp\aditiconsole\bin\Debug\netcoreapp3.1\aditiconsole.dll
+C:\204\consoleapp\aditiconsole\bin\Debug\netcoreapp3.1\aditiconsole.pdb
+C:\204\consoleapp\aditiconsole\obj\Debug\netcoreapp3.1\aditiconsole.csprojAssemblyReference.cache
+C:\204\consoleapp\aditiconsole\obj\Debug\netcoreapp3.1\aditiconsole.AssemblyInfoInputs.cache
+C:\204\consoleapp\aditiconsole\obj\Debug\netcoreapp3.1\aditiconsole.AssemblyInfo.cs
+C:\204\consoleapp\aditiconsole\obj\Debug\netcoreapp3.1\aditiconsole.csproj.CoreCompileInputs.cache
+C:\204\consoleapp\aditiconsole\obj\Debug\netcoreapp3.1\aditiconsole.dll
+C:\204\consoleapp\aditiconsole\obj\Debug\netcoreapp3.1\aditiconsole.pdb
+C:\204\consoleapp\aditiconsole\obj\Debug\netcoreapp3.1\aditiconsole.genruntimeconfig.cache
